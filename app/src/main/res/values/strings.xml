@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomViewAnimation</string>
+    <string name="book_cover">Book cover</string>
+    <string name="genre_icon">Genre icon</string>
+</resources>
